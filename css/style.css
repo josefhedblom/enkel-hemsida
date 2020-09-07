@@ -172,3 +172,15 @@ body {
     
 }
 
+/* Form */
+
+input[type="text"],
+input[type="email"],
+input[type="submit"],
+textarea {
+    width: 100%;
+    margin: 10px 0; /* top/bottom left/right */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #333;
+}
