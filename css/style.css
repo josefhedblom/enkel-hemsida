@@ -66,3 +66,29 @@ body {
 #home,#soicalmedia, #about, #portfolio, #contact, #footer {
     margin-bottom: 50%;
 }
+
+/* Home */
+
+#home p {
+    width: 720px;
+}
+
+#fname, #lname, h1 {
+    text-align:left;
+    text-transform: uppercase;
+}
+
+#fname {
+    color: #343a40;
+}
+
+#lname {
+    color:#bd5d38;
+}
+
+#map_canvas img {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 30px;
+    border-radius:2%;
+}
