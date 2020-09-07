@@ -63,7 +63,7 @@ body {
     margin-top:0px;
 }
 
-#home,#soicalmedia, #about, #portfolio, #contact, #footer {
+#home,#soicalmedia, #about, #portfolio, #contact {
     margin-bottom: 50%;
 }
 
@@ -200,4 +200,10 @@ textarea {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #333;
+}
+
+footer {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom:40px ;
 }
