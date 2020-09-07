@@ -92,3 +92,83 @@ body {
     margin-bottom: 30px;
     border-radius:2%;
 }
+
+/* About */
+
+#about-img img {
+    width: 100%;
+    height: 300px;
+}
+
+#about p {
+    width: 720px;
+}
+
+#about h4 {
+    text-transform: uppercase;
+}
+
+/* Skills */
+
+.skills {
+    width: 250px;
+    height: 250px;
+    float: left;
+    text-align: center;
+    margin: 30px 40px;
+}
+
+.icon-ruby, 
+.icon-python, 
+.icon-shell, 
+.icon-perl,
+.icon-ubuntu,
+.icon-osx,
+.icon-git,
+.icon-suse,
+.icon-python, 
+.icon-shell, 
+.icon-perl,
+.icon-ubuntu,
+.icon-osx,
+.icon-git,
+.icon-suse,
+.icon-html5-alt,
+.icon-css3-alt,
+.icon-bootstrap,
+.icon-javascript-alt {
+    float: left;
+}
+
+.icon-python, 
+.icon-shell, 
+.icon-perl,
+.icon-ubuntu,
+.icon-osx,
+.icon-git,
+.icon-suse,
+.icon-html5-alt,
+.icon-css3-alt,
+.icon-bootstrap,
+.icon-ruby {
+    font-size: 26px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.icon-javascript-alt {
+    font-size: 33px;
+    margin-top: 12px;
+    margin-left: 20px;
+
+}
+
+.icon-html5-alt,
+.icon-css3,
+.icon-bootstrap,
+.icon-javascript {
+    margin-left: 20px;
+    margin-right: 1px;
+    
+}
+
